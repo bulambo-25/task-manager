@@ -16,3 +16,4 @@
 ****
 npm install
 npx knex migrate:latest
+node app.js
